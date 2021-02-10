@@ -1,8 +1,8 @@
 const text_1 = 'Welcome!';
-const text_2 = 'Discover Trends & Interactively Shop!';
-const text_3 = 'Join the private waitlist to get access';
-const text_4 = 'We let you see the items people you follow purchase!';
-const text_5 = 'Get discounts just buy logging in';
+const text_2 = 'Items for your Size, Style, & Personality!';
+const text_3 = 'See items people you follow purchase!';
+const text_4 = 'Get discounts just buy shopping';
+const text_5 = 'Join the private waitlist to get access';
 const text = [text_1, text_2, text_3, text_4, text_5];
 const typingText = document.getElementById('typing-text');
 var i = 0,
